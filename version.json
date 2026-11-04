@@ -1,1 +1,1 @@
-{"versionCode": 42, "versionName": "1.41", "apk": "tesla-widget.apk", "notes": "The app can now update itself: future versions download in the background and ask once to install."}
+{"versionCode": 43, "versionName": "1.42", "apk": "tesla-widget.apk", "notes": "Fixes the collapsed driving notification: the route slider is now full width and visible without expanding."}
