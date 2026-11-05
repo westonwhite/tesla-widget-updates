@@ -1,1 +1,1 @@
-{"versionCode": 43, "versionName": "1.42", "apk": "tesla-widget.apk", "notes": "Fixes the collapsed driving notification: the route slider is now full width and visible without expanding."}
+{"versionCode": 44, "versionName": "1.43", "apk": "tesla-widget.apk", "notes": "Fixes the in-app cabin temperature control: it now uses Tessie's verified set_temperatures command, so setting a temperature in Controls actually works."}
